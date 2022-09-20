@@ -10,4 +10,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=hteppl&include_all_commits=true&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=hteppl)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=hteppl&layout=compact)
