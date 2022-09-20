@@ -1,16 +1,4 @@
-
-<table align="center">
-    <tr>
-        <td>
-            <br>
-            <div align="center">
-                <img text-align="center" src="res/hi-oleg.gif">
-            </div>
-            <br>
-        </td>
-    </tr>
-</table>
-
+<img text-align="center" src="res/hi-oleg.gif">
 <h2><img src="res/crazy.gif" height="30px"> About me</h2>
 <ul align="left">
     <li><strong>Name:</strong> Oleg Kraev;</li>
