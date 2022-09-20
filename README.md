@@ -1,16 +1,13 @@
-### Hi there 👋
+<img text-align="center" src="res/hi-oleg.gif">
+<h2><img src="res/crazy.gif" height="30px"> About me</h2>
+<ul align="left">
+    <li><strong>Name:</strong> Oleg Kraev;</li>
+    <li><strong>From:</strong> Russia, Moscow;</li>
+    <li><strong>Age:</strong> 20 yo;</li>
+    <li><strong>Skills:</strong> Java, Python, GoLang, PHP7, PHP8, MySQL, SQLite, PostgreSQL, MongoDB, GIT;</li>
+    <li><strong>Frameworks:</strong> Spring, Django;</li>
+</ul>
 
-<!--
-**hteppl/hteppl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=hteppl&include_all_commits=true&theme=vue)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/wakatime?username=hteppl)
