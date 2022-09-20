@@ -1,4 +1,16 @@
-<img text-align="center" src="res/hi-oleg.gif">
+
+<table align="center">
+    <tr>
+        <td>
+            <br>
+            <div align="center">
+                <img text-align="center" src="res/hi-oleg.gif">
+            </div>
+            <br>
+        </td>
+    </tr>
+</table>
+
 <h2><img src="res/crazy.gif" height="30px"> About me</h2>
 <ul align="left">
     <li><strong>Name:</strong> Oleg Kraev;</li>
@@ -7,7 +19,5 @@
     <li><strong>Skills:</strong> Java, Python, GoLang, PHP7, PHP8, MySQL, SQLite, PostgreSQL, MongoDB, GIT;</li>
     <li><strong>Frameworks:</strong> Spring, Django;</li>
 </ul>
-
-![](https://github-readme-stats.vercel.app/api?username=hteppl&include_all_commits=true&theme=vue)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=hteppl&layout=compact)
