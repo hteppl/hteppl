@@ -1,5 +1,5 @@
 <img text-align="center" src="res/hi-oleg.gif">
-<h2><img src="res/crazy.gif" height="30px"> About me</h2>
+<h2>🌱 About me</h2>
 <ul align="left">
     <li><strong>Name:</strong> Oleg Kraev;</li>
     <li><strong>From:</strong> Russia, Moscow;</li>
