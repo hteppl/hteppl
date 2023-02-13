@@ -11,6 +11,24 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2038%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--629%20Thousand%20lines%20of%20code-blue)
+
+**I Mostly Code in Java** 
+
+```text
+Java                     36 repos            ████████████░░░░░░░░░░░░░   49.32 % 
+Python                   21 repos            ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+PHP                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+
+```
+
+
+
+ Last Updated on 13/02/2023 07:54:33 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://wakatime.com/share/@hteppl/18a68a4e-e1fb-41eb-b9f2-e999d76b9bac.svg">
