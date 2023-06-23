@@ -38,9 +38,8 @@
       <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
    </p>
 </div>
-<br>
 <div>
-   <h2>👨‍💻 Some of my coding statistics:</h2>
+   <h2>👨‍💻 Coding statistics</h2>
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
    <!--START_SECTION:waka-->
 
