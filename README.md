@@ -1,5 +1,5 @@
 <div>
-   <img align="right" height="211" src="res/hi-oleg.gif" alt="hello, it's me riding on the pig">
+   <img align="right" height="221" src="res/hi-oleg.gif" alt="hello, it's me riding on the pig">
    <div>
       <h1>👨‍🌾 Hello, nice to see you!</h1>
       <p>My name is Oleg, I'm middle Java backend developer.<br>I'm also interested with learning Go and data science in Python.</p>
@@ -11,6 +11,7 @@
    </div>
 </div>
 <br>
+
 <div>
    <h2>✍️ Things I code with</h2>
    <p>Some of the programming languages and frameworks that I use:</p>
@@ -38,7 +39,7 @@
    </p>
 </div>
 <div>
-   <h2>👨‍💻 Some of my coding statistics:</h2>
+   <h2>👨‍💻 Coding statistics</h2>
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
    <!--START_SECTION:waka-->
 
