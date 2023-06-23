@@ -11,6 +11,7 @@
    </div>
 </div>
 <br>
+<br>
 <div>
    <h2>✍️ Things I code with</h2>
    <p>Some of the programming languages and frameworks that I use:</p>
@@ -37,6 +38,7 @@
       <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
    </p>
 </div>
+<br>
 <div>
    <h2>👨‍💻 Some of my coding statistics:</h2>
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
