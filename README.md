@@ -1,5 +1,5 @@
 <div>
-   <img align="right" height="211" src="res/hi-oleg.gif" alt="hello, it's me riding on the pig">
+   <img align="right" height="221" src="res/hi-oleg.gif" alt="hello, it's me riding on the pig">
    <div>
       <h1>👨‍🌾 Hello, nice to see you!</h1>
       <p>My name is Oleg, I'm middle Java backend developer.<br>I'm also interested with learning Go and data science in Python.</p>
@@ -46,6 +46,7 @@
    ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C197%20hrs%2057%20mins-blue)
 
    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+
    📅 **I'm Most Productive on Sunday**
    ```text
    Monday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
