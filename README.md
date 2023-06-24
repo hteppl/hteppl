@@ -41,6 +41,7 @@
 <div>
    <h2>👨‍💻 Coding statistics</h2>
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
+
    <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2050%20mins-blue)
 
