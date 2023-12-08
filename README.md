@@ -43,7 +43,33 @@
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
 
    <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C577%20hrs%2037%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   901 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Tuesday                  1081 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Wednesday                916 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Thursday                 1073 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   851 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Saturday                 738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Sunday                   873 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     46 hrs 9 mins       ████████████████████████░   95.65 % 
+XML                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+DockerIgnore file        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
 
 **I Mostly Code in Java** 
 
