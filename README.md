@@ -43,7 +43,7 @@
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
 
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C988%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C991%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -64,11 +64,11 @@ Sunday                   1057 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 25 mins       ████████████████████████░   95.52 % 
-Nginx configuration file 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Nginx Configuration      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Go                       9 hrs 20 mins       █████████████████████░░░░   83.21 % 
+Nginx configuration file 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Nginx Configuration      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 **I Mostly Code in Java** 
