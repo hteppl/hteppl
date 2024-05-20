@@ -64,7 +64,7 @@ Sunday                   1057 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
