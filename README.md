@@ -43,7 +43,7 @@
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
 
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C994%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C994%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -64,9 +64,10 @@ Sunday                   1057 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       11 mins             ████████████████████████░   95.26 % 
-go.mod                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Go                       15 mins             ████████████████████░░░░░   81.77 % 
+go.mod                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **I Mostly Code in Java** 
