@@ -43,9 +43,32 @@
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
 
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C602%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C603%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Tuesday                  836 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Wednesday                662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Thursday                 879 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Friday                   745 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Saturday                 503 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Sunday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 16 mins        █████████████████████████   99.92 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
 
 **I Mostly Code in Java** 
 
