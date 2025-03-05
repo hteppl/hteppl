@@ -43,33 +43,9 @@
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
 
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C636%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C645%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   702 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Tuesday                  437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Wednesday                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 626 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Friday                   431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Saturday                 452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Sunday                   665 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   26 hrs 9 mins       █████████████████████░░░░   82.79 % 
-INI                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Go                       1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-GitIgnore file           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
