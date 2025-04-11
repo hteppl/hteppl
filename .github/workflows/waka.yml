@@ -25,4 +25,3 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SYMBOL_VERSION: 2
