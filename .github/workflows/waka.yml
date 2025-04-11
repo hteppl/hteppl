@@ -23,3 +23,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SYMBOL_VERSION: 2
