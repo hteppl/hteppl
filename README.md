@@ -43,9 +43,22 @@
    <p>You can also check my <a href="https://wakatime.com/@hteppl">Wakatime</a> profile!</p>
 
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C411%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C412%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
+
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Tuesday                  702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Wednesday                644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 772 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Friday                   609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Sunday                   932 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+```
+
 
 
 <!--END_SECTION:waka-->
