@@ -1,5 +1,7 @@
 <div align="center">
-      <img src="image/LEGALIZE_NUCLEAR_BOMBS.jpg" alt="" width="800">
+      <img src="image/LEGALIZE_NUCLEAR_BOMBS.jpg" alt="" width="600">
+</div>
+<div align="center">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
