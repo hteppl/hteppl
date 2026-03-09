@@ -35,6 +35,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.54%20million%20lines%20of%20code-blue?style=flat)
 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Tuesday                  667 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Wednesday                576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Thursday                 794 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Saturday                 636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+```
+
+
 
 <!--END_SECTION:waka-->
 </div>
