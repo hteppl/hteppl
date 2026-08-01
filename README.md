@@ -53,9 +53,9 @@ Sunday                   7057 commits        █████░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (37.68%)
+⏱ AI Coding Time: 2 hrs 28 mins (45.62%)
 
-✍️ 138 lines written by AI, 7 lines written by hand (95.17% AI-written)
+✍️ 138 lines written by AI, 6 lines written by hand (95.83% AI-written)
 
 🔤 6,957,782 Input Tokens, 45,135 Output Tokens
 
@@ -67,10 +67,10 @@ Opus                     21 lines            ███████████�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.17% of written lines came from AI
+🤖 AI-Driven — 95.83% of written lines came from AI
 📄 Detailed Prompter — average 813 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 5.26% of changed lines were hand-edited
+🚀 High AI Trust — 4.0% of changed lines were hand-edited
 ```
 
 
