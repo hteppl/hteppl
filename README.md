@@ -35,42 +35,42 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.38%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   4033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Tuesday                  4148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Wednesday                3726 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Thursday                 4983 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   3079 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Saturday                 5260 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Sunday                   7057 commits        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Monday                   4216 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Tuesday                  4340 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Wednesday                3912 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Thursday                 5232 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Friday                   3223 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Saturday                 5523 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Sunday                   7420 commits        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (45.62%)
+⏱ AI Coding Time: 1 hr 42 mins (98.1%)
 
-✍️ 138 lines written by AI, 6 lines written by hand (95.83% AI-written)
+✍️ 52 lines written by AI, 3 lines written by hand (94.55% AI-written)
 
-🔤 6,957,782 Input Tokens, 45,135 Output Tokens
+🔤 2,671,292 Input Tokens, 14,207 Output Tokens
 
 💵 $6.12 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 37 AI Prompts
+🧠 1 AI Sessions, 9 AI Prompts
 
 Opus                     21 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.83% of written lines came from AI
-📄 Detailed Prompter — average 813 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 4.0% of changed lines were hand-edited
+🤖 AI-Driven — 94.55% of written lines came from AI
+📄 Detailed Prompter — average 528 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 5.45% of changed lines were hand-edited
 ```
 
 
