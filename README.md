@@ -37,42 +37,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.38%20million%20lines%20of%20code-blue?style=flat)
 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   4216 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Tuesday                  4340 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Wednesday                3912 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Thursday                 5232 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   3223 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 5523 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Sunday                   7420 commits        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 9 mins (85.46%)
-
-✍️ 31 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,979,097 Input Tokens, 21,963 Output Tokens
-
-💵 $25.20 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-Opus                     53 lines            █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 99 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 </div>
