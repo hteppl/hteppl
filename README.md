@@ -31,11 +31,11 @@
 </p>
 
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C264%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C267%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.84%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -43,33 +43,33 @@
 Monday                   4338 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 Tuesday                  4471 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 Wednesday                4038 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Thursday                 5409 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Friday                   3329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Saturday                 5699 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Sunday                   7662 commits        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Thursday                 5409 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Friday                   3329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Saturday                 5699 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Sunday                   7677 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 23 mins (88.78%)
+⏱ AI Coding Time: 28 hrs 57 mins (89.4%)
 
-✍️ 10,879 lines written by AI, 86 lines written by hand (99.22% AI-written)
+✍️ 14,078 lines written by AI, 295 lines written by hand (97.95% AI-written)
 
-🔤 333,618,794 Input Tokens, 973,579 Output Tokens
+🔤 379,650,689 Input Tokens, 1,108,501 Output Tokens
 
-💵 $1683.63 Estimated AI Cost This Week
+💵 $1916.90 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 118 AI Prompts
+🧠 16 AI Sessions, 123 AI Prompts
 
-Opus                     12,370 lines        █████████████████████████   100.00 % 
+Opus                     15,568 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.22% of written lines came from AI
-📚 Verbose Prompter — average 2,460 characters per prompt
+🤖 AI-Driven — 97.95% of written lines came from AI
+📚 Verbose Prompter — average 2,607 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.86% of changed lines were hand-edited
+🚀 High AI Trust — 1.99% of changed lines were hand-edited
 ```
 
 
