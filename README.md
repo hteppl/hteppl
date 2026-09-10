@@ -31,22 +31,22 @@
 </p>
 
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C353%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C355%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.17%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   5135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Tuesday                  5248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Wednesday                4811 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Thursday                 6485 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Friday                   3945 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 6710 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Sunday                   9099 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Monday                   5029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Tuesday                  5143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Wednesday                4718 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Thursday                 6321 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Friday                   3830 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Saturday                 6579 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Sunday                   8955 commits        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
 ```
 
 
